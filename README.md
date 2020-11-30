@@ -1,5 +1,12 @@
-### <p style="display:flex; align-items:center">Hi there 👋 <img src="./img&gif/gh flag.png" height=50px ></p>
-<img src="./img&gif/coder.gif" style="float:right">
+<p style="display:">
+  <h1>Hi there 👋🏽</h1>
+  <img src="./img&gif/gh flag.png" height=50px style="float:right">
+</p>
+
+<img src="./img&gif/coder.gif" alt="coder gif" style="float:right">
+
+
+
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 At this point, I think it's safe to say *" I'm in love with the programming 'magic' "*, the closest thing to real world super powers.  
