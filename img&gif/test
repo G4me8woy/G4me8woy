@@ -1,0 +1,32 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+       <h1>My Repo Structure</h1>
+    <h2>Projects</h2>
+    <div style="display: flex; width: 100%; flex-wrap: wrap;">
+
+        <a href="https://github.com/G4me8woy/West_Trendz_Automobiles" style="margin: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=West_Trendz_Automobiles" 
+            alt="West_Trendz_Automobiles">
+        </a>
+
+        <a href="https://github.com/G4me8woy/G10_Medicals" style="margin: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=G10_Medicals" 
+            alt="G10_Medicals">
+        </a>
+
+        <a href="https://github.com/G4me8woy/My_Class_Management_App" style="margin: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=My_Class_Management_App" 
+            alt="My_Class_Management_App">
+        </a>
+
+        <a href="https://github.com/G4me8woy/G10Rentals" style="margin: 5px;">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=G10Rentals" 
+            alt="G10Rentals">
+        </a>
+
+    </div>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
