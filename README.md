@@ -25,23 +25,8 @@ Also, I'd love to have friends with similar interests in Tech, Anime or the Marv
 [![WhatsApp URL](https://img.shields.io/twitter/url?label=WhatsApp&logo=WhatsApp&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://wa.me/+233545500971)  
 
 # My Repo Structure
-## My Projects 
-
-<a href="https://github.com/G4me8woy/West_Trendz_Automobiles" alt="West_Trendz_Automobiles Repo Link" target="_blank">![West_Trendz_Automobiles Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=West_Trendz_Automobiles)</a>
-
-
-## Rank Coding Challenges
-
-<a href="https://github.com/G4me8woy/Greed_is_Good" alt="Greed_is_Good Repo Link" target="_blank">![Greed_is_Good Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=Greed_is_Good)</a>
-
-
-<a href="https://github.com/G4me8woy/Number_of_People_on_The_Bus" alt="Number_of_People_on_The_Bus Repo Link" target="_blank">![Number_of_People_on_The_Bus Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=Number_of_People_on_The_Bus)</a>
-
-
-<a href="https://github.com/G4me8woy/Find_The_Unique_Number " alt="Find_The_Unique_Number  Repo Link" target="_blank">![Find_The_Unique_Number  Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=Find_The_Unique_Number )</a>
-
-
-<a href="https://github.com/G4me8woy/Multiples_of_3_or_5" alt="Multiples_of_3_or_5 Repo Link" target="_blank">![Multiples_of_3_or_5 Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=G4me8woy&repo=Multiples_of_3_or_5)</a>
+[link](./index.html) to my repo structure  
+last updated - 26th July 2021
 
 # some stats
 ![My github stats](https://github-readme-stats.vercel.app/api?username=g4me8woy&count_private=true&show_icons=true&custom_title=My%20Repo%20Stats&title_color=000000&icon_color=000000&text_color=000000&bg_color=45,eb3443,faf600,11fa00)
