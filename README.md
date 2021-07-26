@@ -25,7 +25,7 @@ Also, I'd love to have friends with similar interests in Tech, Anime or the Marv
 [![WhatsApp URL](https://img.shields.io/twitter/url?label=WhatsApp&logo=WhatsApp&style=social&url=https%3A%2F%2Ffacebook.com%2Fismlhbb)](https://wa.me/+233545500971)  
 
 # My Repo Structure
-[link](./index.html) to my repo structure  
+[link](https://g4me8woy.github.io/G4me8woy/) to my repo structure  
 last updated - 26th July 2021
 
 # some stats
